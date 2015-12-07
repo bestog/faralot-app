@@ -1,0 +1,1 @@
+# faralot-app
